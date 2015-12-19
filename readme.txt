@@ -1,4 +1,9 @@
 I am the learner of the git
 so the works is very hard
 but i am ready
-Creating a new branch is quick AND SIMPLE
+creating a new branch is uyha and simple
+
+
+
+
+
